@@ -77,7 +77,7 @@
 // #include "def/ALTHERMA(LT-D7_E_BML).h"
 // #include "def/ALTHERMA(LT_11-16KW_HYDROSPLIT_HYDRO_UNIT).h"
 // #include "def/ALTHERMA(LT_CA_CB_04-08KW).h"
-// #include "def/ALTHERMA(LT_CA_CB_11-16KW).h"
+#include "def/ALTHERMA(LT_CA_CB_11-16KW).h"
 // #include "def/ALTHERMA(LT_DA_04-08KW).h"
 // #include "def/ALTHERMA(LT_DA_PAIR_BML).h"
 // #include "def/ALTHERMA(LT_GAS_INJ)20200702.h"
