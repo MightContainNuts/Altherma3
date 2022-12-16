@@ -10,9 +10,9 @@
 // #define WIFI_PRIMARY_DNS 8, 8, 8, 8     //optional
 // #define WIFI_SECONDARY_DNS 8, 8, 4, 4   //optional
 
-#define MQTT_SERVER "192.168.1.4" //**IP address here of your MQTT server**
-#define MQTT_USERNAME ""          // leave empty if not set (bad!)
-#define MQTT_PASSWORD ""          // leave empty if not set (bad!)
+#define MQTT_SERVER "192.168.2.222" //**IP address here of your MQTT server**
+#define MQTT_USERNAME ""            // leave empty if not set (bad!)
+#define MQTT_PASSWORD ""            // leave empty if not set (bad!)
 #define MQTT_PORT 1883
 
 #define FREQUENCY 30000 // query values every 30 sec
